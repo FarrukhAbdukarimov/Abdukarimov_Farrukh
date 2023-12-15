@@ -23,3 +23,4 @@
 # ● Schema: Ma'lumotlar modellarini yaratish va ulardan foydalanishni o'rganing.
 # Manba: Udemy online course
 #  
+прорпав
